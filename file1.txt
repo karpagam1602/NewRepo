@@ -1,5 +1,5 @@
-Good morning
-Good night
+Gm
+Gn
 good afternoon
 ga
 gn
