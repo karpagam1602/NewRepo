@@ -1,3 +1,6 @@
-Good morning
+good morning
 Good night
 good afternoon
+ga
+gn
+gm
